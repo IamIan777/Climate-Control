@@ -7,3 +7,11 @@ A Weather Forecast app using openweather api to show the wind temp and humidity 
 This app utilizes the Openweathermap api to provide info for the cities as well as the suitable images for the weather: sunny, cloudy, etc. The other utilizations include HTML, CSS, JS, Chrome for pulling up the webpage, and github for any changes.
 
 ### links
+
+https://openweathermap.org/  (API)
+
+https://github.com/IamIan777/Climate-Control
+
+https://iamian777.github.io/Climate-Control/
+![Alt text](assets/Weather%20Dashboard.gif)
+
