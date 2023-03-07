@@ -1,0 +1,87 @@
+header {
+    background-color: #3997e4;
+    color: white;
+    font-family: sans-serif;
+    font-size: 300%;
+    border-bottom: 5px solid;
+    text-align: center;
+}
+
+ .container {
+   margin-bottom: 5%;   
+   background-color: transparent;
+} 
+
+#nav {
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+
+#search {
+    margin-left: 5%;
+    margin-top: 15%;
+    border-bottom: 2px solid grey;
+}
+
+input {
+    border-radius: 10px;
+    padding: 1%;
+}
+
+#past-searches {
+    background-color: transparent;
+    padding: 3%;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+}
+
+#content {
+    background-color:  #fffefe;
+    font-family: sans-serif;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    margin-top: 2%;    
+}
+
+#weather-info {    
+    margin-bottom: 2%;
+    margin-left: 3%;
+    padding: 2%;
+    width: auto;
+    height: auto;
+    background-color: transparent;  
+    border-bottom: 1px solid rgb(173, 169, 169);
+}
+
+#forecast {
+    background-color: transparent;
+    margin: 1%;
+    height: auto;
+    width: auto;
+}
+
+.col {
+    border: 1px solid #2f2f53;
+    border-radius: 10px;
+    margin: 1%;
+    background-color: #2f2f53;
+    color: white;
+}
+
+#footer {
+    clear: both;
+    padding: 15px;
+    background-color: #595959;
+    color: white;
+    text-align: center;
+    font-family: 'Share', cursive;
+    border-top: 2px solid #404040;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+} 
